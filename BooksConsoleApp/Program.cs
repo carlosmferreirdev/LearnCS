@@ -95,11 +95,13 @@ class Program
         }
     }
 
+    // Metodo para limpar o ficheiro JSON, escrevendo um array vazio.
     static void ClearJsonFile(string fileName)
     {
         File.WriteAllText(fileName, "[]");
     }
 
+    // Método para contar o numero livros que o user quer adicionar
     static List<Book> GetBooksFromUser()
     {
         List<Book> books = new List<Book>();
@@ -113,6 +115,7 @@ class Program
             Console.Write("Please enter a valid positive number: ");
         }
 
+        // Loop para inserir os dados dos livros
         for (int i = 1; i <= count; i++)
         {
             Console.WriteLine($"\nEntering details for book #{i}:");
@@ -133,9 +136,11 @@ class Program
             books.Add(new Book(title, author, pages));
         }
 
+        // Devolve livros inseridos pelo user
         return books;
     }
 
+    // Filtragem e ordenação dos livros com 300+ páginas
     static List<Book> GetSortedBooksOver300Pages(List<Book> books)
     {
         return books
@@ -144,6 +149,7 @@ class Program
             .ToList();
     }
 
+    // Metodo para dar display dos livros
     static void PrintBooks(List<Book> books)
     {
         foreach (var book in books)
@@ -152,6 +158,7 @@ class Program
         }
     }
 
+    // Metodo para gravar livros no ficheiro JSON, sem dar overwrite.
     static void SaveBooksToJson(List<Book> newBooks, string fileName)
     {
         List<Book> existingBooks = new List<Book>();
@@ -178,6 +185,7 @@ class Program
         File.WriteAllText(fileName, combinedJson);
     }
 
+    // Carrega livros do ficheiro JSON com tratamento de erros
     static List<Book> LoadBooksFromJson(string fileName)
     {
         if (!File.Exists(fileName))
