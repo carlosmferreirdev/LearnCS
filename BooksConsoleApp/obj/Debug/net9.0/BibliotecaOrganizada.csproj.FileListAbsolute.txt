@@ -1,0 +1,14 @@
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.AssemblyInfoInputs.cache
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.AssemblyInfo.cs
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.csproj.CoreCompileInputs.cache
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\bin\Debug\net9.0\BibliotecaOrganizada.exe
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\bin\Debug\net9.0\BibliotecaOrganizada.deps.json
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\bin\Debug\net9.0\BibliotecaOrganizada.runtimeconfig.json
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\bin\Debug\net9.0\BibliotecaOrganizada.dll
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\bin\Debug\net9.0\BibliotecaOrganizada.pdb
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.dll
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\refint\BibliotecaOrganizada.dll
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.pdb
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\BibliotecaOrganizada.genruntimeconfig.cache
+C:\Users\Trixx\Desktop\VSCode\Tests\Livros\BibliotecaOrganizada\obj\Debug\net9.0\ref\BibliotecaOrganizada.dll
